@@ -10,8 +10,6 @@ node {
 label 'master'
 
 }
-
-      }
     }
 
     stages {
